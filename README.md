@@ -1,16 +1,7 @@
-# pay
+# vnpay_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt Demo1](assets/demo/demo(1).png "Demo 1")
+![Alt Demo2](assets/demo/demo(2).png "Demo 2")
+![Alt Demo3](assets/demo/demo(3).png "Demo 3")
+![Alt Demo4](assets/demo/demo(4).png "Demo 4")
+![Alt Demo5](assets/demo/demo(5).png "Demo 1")
