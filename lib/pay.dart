@@ -32,7 +32,7 @@ class _PayScreenState extends State<PayScreen> {
           onWebViewCreated: (controller) {
             debugPrint("Open web success");
           },
-          onLoadStart: (controller, url) async {
+          onLoadStop: (controller, url) async {
             if (url.toString().contains("/order/vnpay_return")) {
               var response = await controller.evaluateJavascript(
                   source: 'document.body.innerText');
